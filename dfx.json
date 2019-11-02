@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dfx": "0.4.0",
+  "canisters": {
+    "hello": {
+      "main": "src/hello/main.mo"
+    }
+  },
+  "defaults": {
+    "build": {
+      "output": "canisters/"
+    },
+    "start": {
+      "port": 8000,
+      "address": "127.0.0.1",
+      "serve_root": "src/hello/public/"
+    }
+  }
+}

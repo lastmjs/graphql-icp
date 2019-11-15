@@ -1,0 +1,3 @@
+service anon {
+  "gql": () -> (text);
+}

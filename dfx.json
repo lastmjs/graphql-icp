@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "dfx": "0.4.0",
+  "dfx": "0.4.1",
   "canisters": {
-    "hello": {
-      "main": "src/hello/main.mo"
+    "graphql": {
+      "main": "src/graphql/graphql.mo"
     }
   },
   "defaults": {
@@ -13,7 +13,7 @@
     "start": {
       "port": 8000,
       "address": "127.0.0.1",
-      "serve_root": "src/hello/public/"
+      "serve_root": "src/graphql/public/"
     }
   }
 }

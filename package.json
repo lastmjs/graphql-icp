@@ -18,7 +18,7 @@
   "homepage": "https://github.com/lastmjs/graphql-icp#readme",
   "dependencies": {
     "@dfinity/agent": "0.6.10",
-    "graphiql": "1.0.5",
+    "graphiql": "1.4.7",
     "graphql": "15.3.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
